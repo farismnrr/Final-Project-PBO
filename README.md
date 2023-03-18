@@ -1,11 +1,10 @@
 Cara menjalankan file:
 
 1. Linux
-
-   sudo apt update
-   sudo apt-get install build-essential gdb
-   chmod +x pbo
-   ./pbo
+   - sudo apt update
+   - sudo apt-get install build-essential gdb
+   - chmod +x pbo
+   - ./pbo
 
 2. Windows
 
